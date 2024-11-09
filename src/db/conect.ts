@@ -1,7 +1,7 @@
 import mysql, {Connection} from 'mysql';
 
 const conexion:Connection = mysql.createConnection({
-    host:'192.168.1.85',
+    host:'web-production-0776b.up.railway.app',
     database:'BD_ListQR',
     user:'root',
     password:''
