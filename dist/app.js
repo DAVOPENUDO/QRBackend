@@ -1,3 +1,5 @@
+/* import express from 'express'
+import {pool} from './'
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
@@ -10,3 +12,5 @@ dotenv_1.default.config();
 const server = new server_1.default();
 server.listen();
 //# sourceMappingURL=app.js.map
+
+*/
